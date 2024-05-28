@@ -65,5 +65,6 @@ Have suggestions?  Let me know at the following:
 | ------------- | ------------- |
 | CISA ICS | https://www.cisa.gov/ics-training-available-through-cisa |
 | HTB LAB | https://www.hackthebox.com/blog/alchemy-ics-professional-lab |
+| SEL University | https://selinc.com/selu/ |
 
 
